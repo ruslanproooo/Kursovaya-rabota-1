@@ -2,6 +2,9 @@
 
 https://docs.google.com/document/d/1JJQBvgG03DYTDtfX1Xhg1qLU2b5gg0hgSMqqzUKN7KI/edit
 
+
+https://drive.google.com/drive/folders/1pkNg6aTMSKsJ-pB4yA8pWVwHYIEe16LC?usp=sharing
+
 Курсовая работа по 09.01
 
 Задание: выбор темы до 01.02.24 сайт с БД
