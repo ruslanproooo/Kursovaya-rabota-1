@@ -1,0 +1,17 @@
+* {
+    display: flex;
+    font-family: Calibri, serif;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 100px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
