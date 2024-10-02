@@ -8,13 +8,7 @@ https://drive.google.com/drive/folders/1pkNg6aTMSKsJ-pB4yA8pWVwHYIEe16LC?usp=sha
 
 use case diagram: https://lucid.app/lucidchart/51cccd56-e758-4018-b79f-369b797ee49c/edit?viewport_loc=-3%2C-83%2C2219%2C1079%2C0_0&invitationId=inv_bec782d8-133e-41a8-a385-ba6d21231e52
 
-Курсовая работа по 09.01
 
-Задание: выбор темы до 01.02.24 сайт с БД
-
-План
-
-Выполнение:
 
 3.1. Готовое решение 
 
